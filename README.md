@@ -1,6 +1,9 @@
 # RAG-App
 A rag app that takes a text or pdf input in a Streamlit interface, then uses OpenAI embeddings and LLM, plus ChromaDB to answer queries.
 
+<Br> Click on the image below to watch the demo video <Br> <Br>
+[![Demo video](https://img.youtube.com/vi/8_GjBYK_6tM/0.jpg)](https://youtu.be/aphlw2_UCfA) <Br> <Br>
+
 ## How to setup the project:
 <ol>
   <b>
