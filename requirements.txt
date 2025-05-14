@@ -4,4 +4,8 @@ langchain-openai
 langchain-text-splitters
 langchain-community
 streamlit
-pypdf
+transformers
+PyMuPDF
+pillow
+open_clip_torch
+torch
