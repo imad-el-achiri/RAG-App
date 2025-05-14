@@ -1,5 +1,6 @@
-# RAG-App
-A rag app that takes a text or pdf input in a Streamlit interface, then uses OpenAI embeddings and LLM, plus ChromaDB to answer queries.
+# Multimodal RAG App
+A RAG app that takes a text or pdf input in a Streamlit interface, then uses OpenAI's API for LLM, and a CLIP model for embedding both images and texts, plus ChromaDB for storing the embeddings and documents.
+The app can output a mixture of text and images related to the prompt and extracted from the uploaded document.
 
 <Br> Click on the image below to watch the demo video <Br> <Br>
 [![Demo video](https://img.youtube.com/vi/afhFgVOMz3w/0.jpg)](https://youtu.be/afhFgVOMz3w) <Br> <Br>
